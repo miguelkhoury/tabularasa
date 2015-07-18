@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+
+/* CSS Document
+============================================ */
+.bigtext {
+ font-size: 120%;
+ color: #inherit;
+
+}
+
+.smalltext {
+	font-size:88%;
+}
+
+
